@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/usr/include",
+        "/usr/include/pipewire-0.3",
+        "/usr/include/spa-0.2"
+      ],
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c11",
+      "intelliSenseMode": "linux-clang-x64"
+    }
+  ],
+  "version": 4
+}
