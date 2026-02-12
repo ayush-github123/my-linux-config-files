@@ -1,0 +1,32 @@
+/**
+configuration {
+    modi: "drun,run";
+    show-icons: true;
+    drun-display-format: "{name}";
+}
+
+@theme "~/.config/rofi/launchers/type-6/style-6.rasi"
+
+**/
+
+@theme "~/.config/rofi/launchers/type-6/style-6.rasi"
+
+configuration {
+    modi: "drun,run,web:~/.config/rofi/scripts/web_search.sh";
+    show-icons: true;
+    drun-display-format: "{name}";
+}
+
+
+
+/**
+@theme "~/.config/rofi/launchers/type-6/style-6.rasi"
+
+configuration {
+    modi: "combi";
+    combi-modi: "drun,run";
+    show-icons: true;
+    drun-display-format: "{name}";
+}
+
+**/
